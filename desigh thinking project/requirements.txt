@@ -1,0 +1,17 @@
+# Customizable Multi-Gesture Virtual AI LED Controller
+# Python Dependencies
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Hand Detection and Tracking
+mediapipe>=0.10.0
+
+# Voice Feedback (Optional)
+pyttsx3>=2.90
+
+# GUI (Usually included with Python)
+# tkinter (built-in with Python)
+
+# Additional useful packages for future enhancements
+numpy>=1.24.0

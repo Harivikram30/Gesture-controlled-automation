@@ -1,0 +1,24 @@
+{
+    "gestures": {
+        "thumb_up": "LED1",
+        "thumb_down": "LED2",
+        "three_fingers": "FAN1",
+        "index_up": "LOCK1",
+        "peace_sign": "TV1"
+    },
+    "info": "Gesture to Device Mapping - Edit to customize",
+    "available_gestures": [
+        "thumb_up",
+        "thumb_down",
+        "index_up",
+        "peace_sign",
+        "three_fingers"
+    ],
+    "available_devices": [
+        "LED1",
+        "LED2",
+        "FAN1",
+        "LOCK1",
+        "TV1"
+    ]
+}
